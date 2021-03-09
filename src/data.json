@@ -3,7 +3,7 @@
         {
             "_id": "cake1",
             "title": "cake1",
-            "image": "../images/cake-1.jpeg",
+            "image": "/images/cake-1.jpeg",
             "description": "cake 1",
             "price": 19,
             "availableSizes": [
