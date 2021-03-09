@@ -1,0 +1,136 @@
+{
+    "products": [
+        {
+            "_id": "cake1",
+            "title": "cake1",
+            "image": "../images/cake-1.jpeg",
+            "description": "cake 1",
+            "price": 19,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "cake2",
+            "title": "cake2",
+            "image": "/images/cake-2.jpeg",
+            "description": "cake 2",
+            "price": 20,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "cake3",
+            "title": "cake3",
+            "image": "/images/cake-3.jpeg",
+            "description": "cake 3",
+            "price": 65,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "cupcake 1",
+            "title": "cupcake1",
+            "image": "/images/cupcake-1.jpeg",
+            "description": "cupcake-1",
+            "price": 6,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "cupcake 2",
+            "title": "cupcake2",
+            "image": "/images/cupcake-2.jpeg",
+            "description": "cupcake-2",
+            "price": 6,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "cupcake 3",
+            "title": "cupcake3",
+            "image": "/images/cupcake-3.jpeg",
+            "description": "cupcake-3",
+            "price": 23,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "doughnut-1",
+            "title": "doughnut-1",
+            "image": "/images/doughnut-1.jpeg",
+            "description": "doughnut-1",
+            "price": 23,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "doughnut-2",
+            "title": "doughnut-2",
+            "image": "/images/doughnut-2.jpeg",
+            "description": "doughnut-2",
+            "price": 23,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "doughnut-3",
+            "title": "doughnut-3",
+            "image": "/images/doughnut-3.jpeg",
+            "description": "doughnut-3",
+            "price": 23,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "sweets-1",
+            "title": "sweets-1",
+            "image": "/images/sweets-1.jpeg",
+            "description": "sweets-1",
+            "price": 23,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "sweets-2",
+            "title": "sweets-2",
+            "image": "/images/sweets-2.jpeg",
+            "description": "sweets-2",
+            "price": 23,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "sweets-3",
+            "title": "sweets-3",
+            "image": "/images/sweets-3.jpeg",
+            "description": "sweets-3",
+            "price": 23,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        }
+    ]
+}
